@@ -10,3 +10,10 @@ Tutorials are to be completed in this order:
 1. Pandas
 2. Numpy
 3. Matplotlib
+
+Credits to datasets used:
+1. Kaggle
+2. Singstat
+3. Data.gov.sg
+4. Yahoo Finance
+5. github.com/mkearney
